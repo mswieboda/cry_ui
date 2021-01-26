@@ -1,0 +1,14 @@
+version: 2.0
+shards:
+  cute:
+    git: https://github.com/Papierkorb/cute.git
+    version: 0.3.1+git.commit.54691be31b0aa8dad8da36ca9592e544c15c344f
+
+  iu:
+    git: https://github.com/grkek/iu.git
+    version: 0.1.0
+
+  libui:
+    git: https://github.com/fusion/libui.cr.git
+    version: 0.1.0+git.commit.311d87cb788a69178fb58bdbd8fa139a9f0fe5fc
+
